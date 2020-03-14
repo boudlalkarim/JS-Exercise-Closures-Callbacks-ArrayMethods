@@ -21,7 +21,7 @@ function processFirstItem(stringList, callback) {
 // ⭐️ Example Challenge END ⭐️
 
 
-// 👇 COMPLETE YOUR WORK BELOW 👇
+// 👇 COMPLETE  BELOW 👇
 // 👇 COMPLETE YOUR WORK BELOW 👇
 // 👇 COMPLETE YOUR WORK BELOW 👇
 
